@@ -451,6 +451,7 @@ file:///C:/flutterr/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/composi
 file:///C:/flutterr/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/layer_scene_builder.dart
 file:///C:/flutterr/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/layer_tree.dart
 file:///C:/flutterr/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/path.dart
+file:///C:/flutterr/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/path_metrics.dart
 file:///C:/flutterr/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/picture.dart
 file:///C:/flutterr/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/picture_recorder.dart
 file:///C:/flutterr/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/platform_message.dart
